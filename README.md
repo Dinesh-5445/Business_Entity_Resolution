@@ -1613,6 +1613,3 @@ VALIDATE
    ↓
 SUBMIT
 ```
-
-```
-```
