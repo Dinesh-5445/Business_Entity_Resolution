@@ -1,0 +1,54 @@
+# Challenge dataset - never commit
+student_resource/dataset/
+
+# macOS
+.DS_Store
+._*
+__MACOSX/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Models / experiment artifacts
+models/
+checkpoints/
+runs/
+wandb/
+mlruns/
+
+# Generated outputs
+output/
+*.log
+
+# Temporary files
+*.tmp
+*.cache
+# Local experiment databases
+*.db
+*.db.wal
+
+
+# Generated submission snapshots
+submissions/
+
+# Temporary diagnostic datasets
+experiments/diag_tmp/
+
+student_resource/dataset/
+output/
+models/
+*.db
+*.db.wal
+submissions/
+experiments/diag_tmp/
